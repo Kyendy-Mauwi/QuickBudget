@@ -1,0 +1,11 @@
+{
+    "limit": 1000.0,
+    "expenses": [
+        {
+            "item": "Chips & Masala",
+            "amount": 200.0,
+            "category": "Food",
+            "date": "Feb 17"
+        }
+    ]
+}
